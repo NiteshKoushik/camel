@@ -145,7 +145,7 @@ type conversion framework to be handled by the mapper.
 *Limitation*
 
 The Camel Dozer type converter does not support having the same type
-conversion paris in different mapping ids (eg map-id) in Dozer.
+conversion pairs in different mapping ids (eg map-id) in Dozer.
 ====
 
 In Java it can be configured as follows:
