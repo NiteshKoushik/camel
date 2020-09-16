@@ -136,7 +136,7 @@ And then refer to "required" from the route:
 [[TransactionalClient-DatabaseSample]]
 == Database Sample
 
-In this sample we want to ensure that two endpoints is under transaction
+In this sample we want to ensure that two endpoints are under transaction
 control. These two endpoints inserts data into a database.
 The sample is in its full as a
 https://github.com/apache/camel/tree/master/components/camel-spring/src/test/java/org/apache/camel/spring/interceptor/TransactionalClientDataSourceMinimalConfigurationTest.java[unit test].
