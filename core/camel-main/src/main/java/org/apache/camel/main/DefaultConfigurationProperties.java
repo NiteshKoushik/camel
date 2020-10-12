@@ -1483,7 +1483,7 @@ public abstract class DefaultConfigurationProperties<T> {
     }
 
     /**
-     * Sets the JMX statistics level The level can be set to Extended to gather additional information
+     * Sets the JMX statistics level, the level can be set to extended to gather additional information
      *
      * The default value is Default.
      */
